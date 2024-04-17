@@ -11,7 +11,7 @@
     <td><img src="https://github.com/Aleksa-esme/certificates/blob/master/%D0%9C%D0%B8%D0%B4%D0%BB%20%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.png?raw=true" alt="Мидл фронтенд-разработчик" style="height:300px; width:auto;"></td>
   </tr>
   <tr>
-    <td align="center">Яндекс ШРИ 2022</td>
+    <td align="center">Школа разработки интерфейсов</td>
     <td align="center">Мидл фронтенд-разработчик</td>
   </tr>
 </table>
